@@ -7,4 +7,4 @@ node --experimental-worker http-server-main-thread.js
 then navigate to http://localhost:8080/
 Refreshing the browser updates the counter to confirm there's no caching or other funny business.
 
-Node should be "modern" (i.e. I am building from the source).
+Node should be "modern" (e.g. I am building from the source).
